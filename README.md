@@ -12,7 +12,7 @@ Essa será uma aplicação onde o seu principal objetivo é refatorar uma págin
 - A primeira categoria da lista (que é "Ação") já deve começar como marcada;
 - O header da aplicação possui apenas o nome da categoria selecionada que deve mudar dinamicamente.
 
-A seguir, veja como ficou a aplicação ao final do desafio 🚀 
+Veja como ficou a aplicação ao final do desafio 🚀 
 
  </br>
 
